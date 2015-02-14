@@ -2,6 +2,7 @@
 about python's basic knowledge
 
 some files as following:
+
   yejunchen.py: format of python, and some basic grammer
     about list/tuple, if/loop, function-def, dict/set, 列表生成式可生成list, 生成器() or 函数yield中断, class(important), file, 
     errors-checking
