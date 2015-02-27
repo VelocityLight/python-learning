@@ -17,5 +17,7 @@ some files as following:
     python cus.py
     python ser.py
     cus.py is a server， ser.py is a customer. 
+	
+  sentm.py, getm.py: using smtp/pop server to send/get email. Notice that MIMEMultipart.
   
 And has many things need to be done.
