@@ -20,4 +20,8 @@ some files as following:
 	
   sentm.py, getm.py: using smtp/pop server to send/get email. Notice that MIMEMultipart.
   
+  wsginet.py: about web agreement. http://localhost/8000
+  mvcnet.py: about web framework.(jinja2). http://localhost/5000/signin
+  
+  
 And has many things need to be done.
